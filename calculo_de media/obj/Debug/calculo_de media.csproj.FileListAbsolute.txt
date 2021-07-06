@@ -1,0 +1,10 @@
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\bin\Debug\calculo_de media.exe.config
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\bin\Debug\calculo_de media.exe
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\bin\Debug\calculo_de media.pdb
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\obj\Debug\calculo_de media.csproj.AssemblyReference.cache
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\obj\Debug\calculo_de_media.Form1.resources
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\obj\Debug\calculo_de_media.Properties.Resources.resources
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\obj\Debug\calculo_de media.csproj.GenerateResource.cache
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\obj\Debug\calculo_de media.csproj.CoreCompileInputs.cache
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\obj\Debug\calculo_de media.exe
+C:\Users\guusi\source\repos\calculo_de media\calculo_de media\obj\Debug\calculo_de media.pdb
